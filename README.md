@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvindk1
 - 👀 I’m interested in cloud infrastructure
-- 🌱 I’m currently learning go lang
+- 🌱 I’m currently learning python lang
 - 💞️ I’m looking to collaborate on aws cdk
 - 📫 How to reach me ...
 
